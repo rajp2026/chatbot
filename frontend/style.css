@@ -172,3 +172,9 @@ button:disabled {
 button:hover:not(:disabled) {
     color: #0056b3;
 }
+
+.chat-image {
+    max-width: 250px;
+    border-radius: 8px;
+    margin: 5px 0;
+}
